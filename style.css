@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.main{
+    width: 100%;
+    background: linear-gradient(to top,rgba(0,0,0,0.5) 50%,rgba(0,0,0,0.5) 50%),url("./5651992.webp");
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+.logo{
+    color: white;
+    padding-left: 30px;
+    padding-top: 20px;
+    font-size: xx-large;
+}
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+    color: white;
+}
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 300px;
+}
+ul li{
+    list-style: none;
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: large;
+    padding-left: 80px;
+
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    transition: 0.4s ease-in-out;
+}
+ul li a:hover{
+    color: darkcyan;
+}
+.hello{
+color: white;
+padding-top: 130px;
+padding-left: 60px;
+font-size: small;
+}
+.mohan{
+    color:white;
+    padding-left: 60px;
+    font-size: smaller;
+    padding-top: 2.5px;
+}
+.end{
+    padding-left:60px ;
+}
+.this{
+    color: white;
+    padding-left: 60px;
+    font-size: 20px;
+}
+.icon{
+    color: darkcyan;
+   padding-left: 60px;
+   font-size: xx-large;
+
+}
+.instagram{
+    color: darkcyan;
+
+    padding-left: 10px;
+}
+
+.vikas{
+color: darkcyan;
+    padding-left: 10px;
+}
+.icon .cn{
+  width: 160px;
+  height: 40px;
+  background:  darkcyan;
+  border: none;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  font-size: 18px;
+  border-radius: 10px;
+  cursor: pointer;
+  padding-top: 10px;
+  padding-left: -5px;
+}
+.about{
+    color: white;
+    padding-top: 80px;
+    padding-left: 80px;
+}
+.par{
+    color: white;
+    padding-top: 20px;
+    padding-left: 80px;
+    font-size: small;
+  
+}
+.skills{
+    color: white;
+ padding-top: 60px;
+ padding-left: 60px;
+
+}
+.parr{
+    color: white;
+    padding-left: 60px;
+}
+.contact{
+    color: white;
+    padding-left: 30px;
+    padding-top:60px;
+    font-size: x-large;
+}
+.link{
+    color: darkcyan ;
+    padding-left: 40px;
+    padding-top: 30px;
+    font-size: xx-large;
+}
+.mail{
+    color: darkcyan ;
+    padding-left: 3px;
+}
+.git{
+    color: darkcyan ;
+    padding-left: 3px;
+}
